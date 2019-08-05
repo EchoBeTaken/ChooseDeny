@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--状态栏-->
+    <color name="state">#D81B60</color>
+    <!--标题栏-->
+    <color name="title">#F00</color>
+</resources>
